@@ -1,0 +1,4 @@
+.feed {width:450px;color:#fff;background: #333;padding:10px;border: solid 5px #333;}
+.feed a {color:#fff;text-decoration:none;}
+.feed a:hover {color:#ccc;text-decoration:none;}
+.twitter-timeline {position:relative;}
